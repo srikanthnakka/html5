@@ -1,6 +1,6 @@
 HTML5 Parser for node.js
 ========================
-TEST GIT 2
+
 [![Build Status](https://travis-ci.org/aredridel/html5.svg?branch=master)](https://travis-ci.org/aredridel/html5)
 
 Examples
@@ -46,4 +46,3 @@ and give it a run:
 
 	npm test
 
-Git repository at http://dinhe.net/~aredridel/projects/js/html5.git/
